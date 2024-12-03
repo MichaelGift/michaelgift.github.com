@@ -186,7 +186,7 @@ const projects = [
     },
     {
         id: 'project-3',
-        name: 'Event Finder App',
+        name: 'Events App',
         description: 'This is a proof of concept for an event finder application. ' +
             'It allows users to search for events in their area.',
         tags: [
@@ -209,7 +209,7 @@ const projects = [
     },
     {
         id: 'project-4',
-        name: 'Unity Realtime animation',
+        name: '3D Animation',
         description: `Sample project to show unity's realtime animation capabilities.`,
         tags: [
             {
