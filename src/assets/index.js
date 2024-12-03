@@ -6,9 +6,11 @@ import worldmap from './backgrounds/world-map.png';
 import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
 
-import shaq from './personal/shaq.png';
-
 import backend from './icons/backend.png';
+import gamedev from './icons/gamedev.png';
+import cloud from './icons/cloud.png';
+import documentation from './icons/documentation.png';
+
 import ux from './icons/ux.png';
 import frontend from './icons/frontend.png';
 import prototyping from './icons/prototyping.png';
@@ -22,6 +24,15 @@ import menu from './icons/menu.png';
 import resume from './icons/resume.png';
 import send from './icons/send.png';
 import sendHover from './icons/sendHover.png';
+
+import bootstrap from './tech/bootstrap.png';
+import csharp from './tech/csharp.png';
+import java from './tech/java.png';
+import python from './tech/python.png';
+import kotlin from './tech/kotlin.png';
+import unity from './tech/unity.png';
+import unreal from './tech/unreal.png';
+import kubernetes from './tech/kubernetes.png';
 
 import css from './tech/css.png';
 import docker from './tech/docker.png';
@@ -38,11 +49,16 @@ import graphql from './tech/graphql.png';
 import postgresql from './tech/postgresql.png';
 import rubyrails from './tech/rubyrails.png';
 
+import placeholderCompany from './company/basecompany.png';
 import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
 
+import meridian from './projects/meridian.png';
+import serine from './projects/serine.png';
+import animation from './projects/animation.png';
+import eventapp from './projects/event-app.png';
 import komikult from './projects/komikult.png';
 import leaderboard from './projects/leaderboard.png';
 import math from './projects/math-magicians.png';
@@ -57,7 +73,6 @@ export {
   worldmap,
   logo,
   logotext,
-  shaq,
   backend,
   ux,
   frontend,
@@ -72,6 +87,14 @@ export {
   resume,
   send,
   sendHover,
+    bootstrap,
+    csharp,
+    java,
+    python,
+    kotlin,
+    unity,
+    unreal,
+    kubernetes,
   css,
   docker,
   figma,
@@ -92,8 +115,17 @@ export {
   movie,
   nyeusi,
   space,
+    placeholderCompany,
   coverhunt,
   dcc,
   kelhel,
   microverse,
+    gamedev,
+    cloud,
+    documentation,
+
+    meridian,
+    serine,
+    animation,
+    eventapp,
 };
