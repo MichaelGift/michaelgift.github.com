@@ -59,6 +59,11 @@ import meridian from './projects/meridian.png';
 import serine from './projects/serine.png';
 import animation from './projects/animation.png';
 import eventapp from './projects/event-app.png';
+import ieee from './projects/ieee.png';
+import lisa from './projects/lisa.png';
+import war from './projects/war.png';
+import robbery from './projects/robbery.png';
+import feastify from './projects/feastify.png';
 import komikult from './projects/komikult.png';
 import leaderboard from './projects/leaderboard.png';
 import math from './projects/math-magicians.png';
@@ -128,4 +133,9 @@ export {
     serine,
     animation,
     eventapp,
+    ieee,
+    lisa,
+    war,
+    robbery,
+    feastify
 };
